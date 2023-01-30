@@ -6,7 +6,7 @@ torch==1.7.1
 matplotlib==3.6.3
 pillow==8.1.0
 tensorboard==2.11.2
-PyYAML==5.3
+PyYAML>=5.3
 torchvision==0.8.2
 scipy==1.9.1
 tqdm==4.51.0
