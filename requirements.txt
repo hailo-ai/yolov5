@@ -1,15 +1,15 @@
 # pip install -U -r requirements.txt
-Cython
-numpy>=1.18.5
-opencv-python
-torch>=1.5.1
-matplotlib
-pillow
-tensorboard
-PyYAML>=5.3
-torchvision>=0.6
-scipy
-tqdm
+Cython==0.29.33
+numpy==1.19.2
+opencv-python==4.5.5.64
+torch==1.7.1
+matplotlib==3.6.3
+pillow==8.1.0
+tensorboard==2.11.2
+PyYAML==5.3.1
+torchvision==0.8.2
+scipy==1.9.1
+tqdm==4.51.0
 # pycocotools>=2.0
 
 # Nvidia Apex (optional) for mixed precision training --------------------------
